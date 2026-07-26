@@ -35,9 +35,12 @@ The app displays the full list of characters, lets you filter them by status (Al
 ---
 
 ## 📸 App Screenshots
-https://github.com/user-attachments/assets/10fd0ec8-f6b5-43c3-bdba-a3b53a7f13c9
+
 <div align="center">
   <table>
+    <tr> <td align="center" colspan="2"> <b>Video Demo</b><br /><br />
+
+https://github.com/user-attachments/assets/10fd0ec8-f6b5-43c3-bdba-a3b53a7f13c9
     <tr>
       <td align="center" width="50%">
         <b>Home Screen - All Characters</b><br /><br />
