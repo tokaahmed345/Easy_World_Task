@@ -17,9 +17,9 @@
 
 ## 📖 About The Project
 
-<b>Character Hub</b> is a Flutter application built as part of the Flutter Internship Selection Process at <b>EASY WORLD ESTABLISHMENT DIGITAL MARKETING</b>.
+<b>Character Hub</b> is a Flutter application that connects with the <a href="https://rickandmortyapi.com/documentation">Rick and Morty API</a> to browse and explore all the show's characters.
 
-The app seamlessly connects with the <a href="https://rickandmortyapi.com/documentation">Rick and Morty API</a> to fetch, filter, search, export, and display character data with exceptional performance and a polished dark-themed UI/UX.
+The app displays the full list of characters, lets you filter them by status (Alive, Dead, Unknown), and includes a real-time search with debouncing for a smooth, fast experience. You can also export the character data to Excel, all wrapped in a clean, polished dark-themed UI.
 
 ---
 
@@ -68,6 +68,14 @@ The app seamlessly connects with the <a href="https://rickandmortyapi.com/docume
       <td align="center" colspan="2">
         <b>Character Details</b><br /><br />
         <img src="screenshots/char_details.png" alt="Character Details" width="280" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <b>Video Demo</b><br /><br />
+        <video src="screenshots/video.mp4" controls width="280">
+          Your browser does not support the video tag.
+        </video>
       </td>
     </tr>
   </table>
@@ -129,12 +137,6 @@ lib/
 
 ---
 
-## 🎥 App Demonstration
-
-Check out the <a href="screenshots/video.mp4" target="_blank">Video Demo 🔗</a> linked at the top of this README for a full walkthrough of the app.
-
----
-
 ## 🚀 Getting Started
 
 Follow these instructions to get a copy of the project running on your local machine:
@@ -142,7 +144,7 @@ Follow these instructions to get a copy of the project running on your local mac
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/tokaahmed345/Easy_World_Task
+   git clone https://github.com/YOUR_GITHUB_USERNAME/character_hub.git
    ```
 
 2. **Install dependencies:**
