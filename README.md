@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/75d3b873-bdfc-48f1-a9e5-97eecb2b1ee7
+
 <div align="center">
   <h1>🛸 Character Hub - Rick and Morty</h1>
   <p>A modern, clean, and responsive Flutter application integrating with the <b>Rick and Morty API</b>.</p>
