@@ -8,7 +8,6 @@
     <a href="#app-screenshots">Screenshots</a> •
     <a href="#packages--dependencies">Packages</a> •
     <a href="#clean-architecture--project-structure">Architecture</a> •
-    <a href="screenshots/video.mp4" target="_blank">Video Demo 🔗</a> •
     <a href="#getting-started">Getting Started</a>
   </p>
 </div>
@@ -70,14 +69,7 @@ The app displays the full list of characters, lets you filter them by status (Al
         <img src="screenshots/char_details.png" alt="Character Details" width="280" />
       </td>
     </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <b>Video Demo</b><br /><br />
-        <video src="screenshots/video.mp4" controls width="280">
-          Your browser does not support the video tag.
-        </video>
-      </td>
-    </tr>
+   
   </table>
 </div>
 
@@ -144,7 +136,7 @@ Follow these instructions to get a copy of the project running on your local mac
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/character_hub.git
+   git clone https://github.com/tokaahmed345/Easy_World_Task
    ```
 
 2. **Install dependencies:**
