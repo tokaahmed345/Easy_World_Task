@@ -35,7 +35,7 @@ The app displays the full list of characters, lets you filter them by status (Al
 ---
 
 ## 📸 App Screenshots
-  <b>Filter => 💡 **Note:** Click on the video player below to play the walkthrough video.</b><br /><br />
+  <b>💡 **Note:** Click on the video player below to play the walkthrough video.</b><br /><br />
 
 https://github.com/user-attachments/assets/10fd0ec8-f6b5-43c3-bdba-a3b53a7f13c9
 <div align="center">
