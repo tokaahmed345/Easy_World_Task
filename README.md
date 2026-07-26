@@ -1,6 +1,9 @@
 
 
-https://github.com/user-attachments/assets/75d3b873-bdfc-48f1-a9e5-97eecb2b1ee7
+
+
+                                                         https://github.com/user-attachments/assets/10fd0ec8-f6b5-43c3-bdba-a3b53a7f13c9
+
 
 <div align="center">
   <h1>🛸 Character Hub - Rick and Morty</h1>
