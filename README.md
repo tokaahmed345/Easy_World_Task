@@ -1,7 +1,4 @@
 
-https://github.com/user-attachments/assets/10fd0ec8-f6b5-43c3-bdba-a3b53a7f13c9
-
-
 <div align="center">
   <h1>🛸 Character Hub - Rick and Morty</h1>
   <p>A modern, clean, and responsive Flutter application integrating with the <b>Rick and Morty API</b>.</p>
@@ -38,7 +35,7 @@ The app displays the full list of characters, lets you filter them by status (Al
 ---
 
 ## 📸 App Screenshots
-
+https://github.com/user-attachments/assets/10fd0ec8-f6b5-43c3-bdba-a3b53a7f13c9
 <div align="center">
   <table>
     <tr>
